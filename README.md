@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Alt Text](https://i.pinimg.com/originals/0d/cb/17/0dcb176c2378c4b26beba81c865b074b.gif)
+
+
 
 <!--
 **sRamosg2018/sRamosg2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
