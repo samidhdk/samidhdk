@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Alt Text](https://i.pinimg.com/originals/0d/cb/17/0dcb176c2378c4b26beba81c865b074b.gif)
-
 
 
 <!--
