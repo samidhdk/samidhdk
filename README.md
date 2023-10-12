@@ -11,5 +11,5 @@ I'm currently using Python the most since it's pretty straightforward and has a 
 In the future I would like to keep pushing my C/C++ dexterity. I feel like is the final boss programming (excluding Assembly and binary) and I'm always up for a challange.
 My idea is to start and Unreal Engine proyect to refresh eveything a bit.
 
-
+Additionally I study cybersecurity and competitive programming from time to time.
 
