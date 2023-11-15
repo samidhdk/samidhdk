@@ -11,3 +11,5 @@
 
 🕵️‍♂️ Additionally I study cybersecurity and competitive programming from time to time.
 
+😃 I hate Frontend, it disgust me.
+
