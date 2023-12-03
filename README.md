@@ -1,16 +1,13 @@
 ### Hello there...
 
+🎓 My name is Santiago, and I'm in my last year of college studying Computer Science.
 
-🎓 My name is Santiago and I'm on my last year of college (Computer Science).
+👾 Most of the time, I'm engrossed in coding projects related to video games—a topic that greatly inspires me.
 
-👾 Most of the time I'm trying to code something related to videogames (not creating them yet).
+🧭 I have experience with several popular programming languages such as C/C++, Java, and Python. Currently, Python is my primary choice due to its straightforward syntax and the abundance of interesting modules.
 
-🧭 I have experience with the most popular languages such as C/C++, Java and Python, but I'm currently using Python the most since it's syntax is pretty straightforward and has a lot of interesting modules.
+👀 Presently, I'm experimenting with OpenCV, mediapipe, and TensorFlow to develop a custom controller using a camera for multiple games. However, I'm also intrigued by Django.
 
-👀 At the moment I'm tinkering with OpenCV, mediapipe and tensorflow to develop a custom controller for multiple games using a camera. Nevertheless Django has caught my eye.
+👎 I strongly dislike frontend development; it simply doesn't appeal to me.
 
-🕵️‍♂️ Additionally I study cybersecurity and competitive programming from time to time.
-
-😃 I hate Frontend, it disgust me.
-
-📞 Contact: santiagoramosgomez@gmail.com
+📧 Contact: santiagoramosgomez@gmail.com
